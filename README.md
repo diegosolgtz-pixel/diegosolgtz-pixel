@@ -19,17 +19,19 @@ Me encanta entender el porqué de las cosas y encontrar soluciones a problemas c
 
 * :seedling: He realizado proyectos con :computer:  SQL , Python y PowerBI. Mi experiencia va enfocada a entender el contexto del negocio y diseñar soluciones que resuelvan problemas reales.:technologist:
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Jorge-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sg-diego/)
-
+* :mailbox: ¿Quieres contactar conmigo? 
+* :https://www.linkedin.com/in/sg-diego/
 * :e-mail: diegosolgtz@gmail.com
 
 
 ---
-
 ### :hammer_and_wrench: Herramientas :
-<div id="header" align="left">
-  
-  [![My Skills](https://skillicons.dev/icons?i=sql,py,excel,powerbi)](https://skillicons.dev)
+<div align="left">
+
+* 🗄️ **SQL** (PostgreSQL / MySQL)
+* 🐍 **Python** (Pandas / NumPy)
+* 📊 **Power BI**
+* 📈 **Microsoft Excel**
 
 </div>
 ---
