@@ -1,14 +1,11 @@
 <div align="center">
-  <h1 align="center">Hola, soy <a href="https://aristi.dev">DiegoSG</a> 👋</h1>
+  <h1 align="center">Hola, soy DiegoSG 👋</h1>
 </div>
 
 <div id="header" align="center">
   <img decoding="async" src="Black & White Modern Minimalist Data Analyst LinkedIn Banner (1).png" width="800"/>
 
-  [![][(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sg-diego/)
-
-  ![](https://komarev.com/ghpvc/?username=diegosolgtz-pixel&color=blueviolet&style=flat-square)
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sg-diego/)
 </div>
 ---
  <div id="header" align="left">
